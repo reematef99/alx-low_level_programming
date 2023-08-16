@@ -5,8 +5,11 @@
 * of an integer.
 *
 * @i: input number as an integer.
+*
+* Return: absolute value
 * Return:absolute value
 */
+
 int _abs(int i)
 {
 	if (i >= 0)
@@ -14,7 +17,7 @@ int _abs(int i)
 		return (1);
 	}
 	else
- 	{
+	{
 		return (i * -1);
 	}
 }
