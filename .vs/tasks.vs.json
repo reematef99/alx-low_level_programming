@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-6-abs",
+      "appliesTo": "0x02-functions_nested_loops/6-abs.c",
+      "type": "launch"
+    }
+  ]
+}
